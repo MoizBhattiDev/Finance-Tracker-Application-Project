@@ -10,7 +10,7 @@ Features
  Summarize expenses by category
  Automatically save and reload transactions from a local text file
 
-This app creates a transactions.txt file 
+This app creates a transactions.txt file.
 
 
 Learning goals
