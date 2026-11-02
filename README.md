@@ -1,7 +1,7 @@
 Java Finance Manager
 
 
-A beginner-friendly console application for tracking income and expenses, written in Java.
+A beginner friendly console application for tracking income and expenses, written in Java.
 
 Features
  Add income and expense transactions
